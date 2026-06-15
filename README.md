@@ -95,7 +95,7 @@ Example Request:
 
 ```json
 {
-  "user_name": "Siya",
+  "user_name": "ABC",
   "dob": "2003-05-15",
   "gender": "Female",
   "sport": "Athletics",
